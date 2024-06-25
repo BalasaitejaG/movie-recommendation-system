@@ -25,7 +25,7 @@ This project is a movie recommendation engine that processes a movie dataset and
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your_username/movie-recommendation-engine.git
+    https://github.com/BalasaitejaG/movie-recommendation-system.git
     ```
 2. Change to the project directory:
     ```sh
